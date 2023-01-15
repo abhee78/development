@@ -1,2 +1,2 @@
 # development
-development of java
+development of java. We are working in Microservices and Docker
